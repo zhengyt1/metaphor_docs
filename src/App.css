@@ -3,9 +3,10 @@
 }
 
 .App h1 {
-  margin-bottom: 30px;
-  padding-bottom: 30px;
-  border-bottom: solid rgba(0,0,0,0.1);
+  margin-bottom: 30px 0;
+  padding: 30px 0;
+  border-bottom: solid 2px rgba(0,0,0,0.1);
+  border-top: solid 2px rgba(0,0,0,0.1);
 }
 
 .pop-over {
@@ -15,7 +16,7 @@
 .pop-over .my-statement {
   color: #e8a411;
 }
-.sticky-button {
+.metaphor-tools {
   position: fixed !important;
   top: 30px;
   right: 30px;
