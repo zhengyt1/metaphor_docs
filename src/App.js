@@ -122,9 +122,9 @@ function App() {
       </article>
       <article>
         <h1>Metaphor AI: Illuminating the World's Knowledge in Next-Generation Documents</h1>
-        <em>The project's mission is to democratize access to knowledge. Whether you're a student, a professional, a researcher, or anyone seeking information, our next-generation documents ensure that you're always at the forefront of what's known. Imagine the potential for education, decision-making, and innovation when the entire world's knowledge is at your fingertips.</em>
         <h3>Description:</h3>
-        In a rapidly evolving digital landscape, where information is both abundant and complex, our project stands at the forefront of innovation. We proudly introduce the next generation of documents, empowered by Metaphor AI, a groundbreaking technology that brings the world's knowledge to everything.
+        <p>In a rapidly evolving digital landscape, where information is both abundant and complex, the project stands at the forefront of innovation. I proudly introduce the next generation of documents, empowered by Metaphor AI, a groundbreaking technology that brings the world's knowledge to everything. If we truly launch this project and make it real, it would be impactful.</p>
+        <p>The project's mission is to democratize access to knowledge. Whether you're a student, a professional, a researcher, or anyone seeking information, our next-generation documents ensure that you're always at the forefront of what's known. Imagine the potential for education, decision-making, and innovation when the entire world's knowledge is at your fingertips.</p>
         <h3>The Vision:</h3>
         Imagine a world where documents aren't just static collections of words and data, but living entities capable of harnessing the collective intelligence of the internet. Our project envisions a future where documents evolve into dynamic, interactive, and deeply insightful sources of information.
         <h3>Metaphor AI - A Game Changer:</h3>
@@ -132,9 +132,8 @@ function App() {
         <h3>Key Features:</h3>
         <p><b>Real-Time Knowledge Integration:</b> Metaphor AI continuously scans the internet, synthesizing the most current and relevant information to enrich your documents. Say goodbye to outdated, static content.</p>
         <p><b>Contextual Understanding:</b>  Our AI comprehends the context of your documents, ensuring that the information it adds is not only accurate but also aligned with your goals.</p>
-        <p><b>Interactive Elements:</b>The new-generation documents are not just informative but interactive. Embed videos, audio clips, and even real-time data feeds seamlessly.</p> 
+        <p><b>Interactive Elements:</b>The new-generation documents are not just informative but interactive. Embed search with AI power seamlessly.</p> 
         <p><b>Dynamic Updates:</b> Documents powered by Metaphor AI evolve as new information becomes available. This ensures that your documents remain relevant and valuable over time.</p>
-        <p><b>Multi-Modal Output:</b> Metaphor AI adapts to various document formats, from traditional text to multimedia-rich presentations, offering versatility in how you share knowledge.</p>
       </article>
       <article>
         <h1>Quiz book playground</h1>
