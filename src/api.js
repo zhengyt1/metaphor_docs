@@ -9,7 +9,7 @@ export const search = async (query, autoprompt) => {
     const query_len = query.trim().split(/\s+/).length;
     const response = await metaphor.search(query, {
       numResults: 5,
-      // useAutoprompt: true,
+      useAutoprompt: autoprompt,
       type: query_len <= 2 ? 'keyword' : 'neural'
     });
     return response.results
