@@ -9,24 +9,22 @@
   
 ## Description:
 
-In a rapidly evolving digital landscape, where information is both abundant and complex, the project stands at the forefront of innovation. We proudly introduce the next generation of documents, empowered by Metaphor AI, a groundbreaking technology that brings the world's knowledge to everything. If we truly launch this project and make it real, it would be impactful.
+In a rapidly evolving digital landscape, where information is both abundant and complex, the project stands at the forefront of innovation. I proudly introduce the next generation of documents, empowered by Metaphor AI, a groundbreaking technology that brings the world's knowledge to everything. If we truly launch this project and make it real, it would be impactful.
 
-Project's mission is to democratize access to knowledge. Whether you're a student, a professional, a researcher, or anyone seeking information, our next-generation documents ensure that you're always at the forefront of what's known. Imagine the potential for education, decision-making, and innovation when the entire world's knowledge is at your fingertips.
+The project's mission is to democratize access to knowledge. Whether you're a student, a professional, a researcher, or anyone seeking information, our next-generation documents ensure that you're always at the forefront of what's known. Imagine the potential for education, decision-making, and innovation when the entire world's knowledge is at your fingertips.
 
 ## Key Features:
 
 **Real-Time Knowledge Integration:** Metaphor AI continuously scans the internet, synthesizing the most current and relevant information to enrich your documents. Say goodbye to outdated, static content.
 
-**Contextual Understanding:** Our AI comprehends the context of your documents, ensuring that the information it adds is not only accurate but also aligned with your goals.
+**Contextual Understanding:** Metaphor AI comprehends the context of your documents, ensuring that the information it adds is not only accurate but also aligned with your goals.
 
-**Interactive Elements:** The new-generation documents are not just informative but interactive. Embed videos, audio clips, and even real-time data feeds seamlessly.
+**Interactive Elements:** The new-generation documents are not just informative but interactive. Embed search with AI power seamlessly.
 
 **Dynamic Updates:** Documents powered by Metaphor AI evolve as new information becomes available. This ensures that your documents remain relevant and valuable over time.
 
-**Multi-Modal Output:** Metaphor AI adapts to various document formats, from traditional text to multimedia-rich presentations, offering versatility in how you share knowledge.
-
 ### Some Details
-In your metaphor_docs application, you can simply select and highlight anything that captures your interest, then click on "Search for it," and let metaphor_docs take care of the rest for you. It will not only recommend additional relevant content but also provide you with the links you may find useful.
+In your metaphor_docs application, you can simply select and highlight anything that captures your interest, then click on "Search for it," and let metaphor_docs take care of the rest for you. It will not only recommend relevant content but also provide you with the links you may find useful.
 
 ![image](https://github.com/zhengyt1/metaphor_docs/assets/112508286/1803a92c-f8cd-488c-9c43-8891d5be0ac7)
 
